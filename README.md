@@ -1,7 +1,7 @@
 ### Hi there, I'm Austin. Welcome to my Github!
 
 ## Lifelong learner | Invested | Passionate | Persistent
-- I'm a CS student, pursuing a career in software engineering
+- USMC Veteran & CS student, pursuing a career in software engineering
 - I'm currently focusing on Data Structures and Algorithms with the Java language.
 - 2022 Goals: Contribute to more Open Source projects and add more experience to my belt
 - Fun fact: Nature is my getaway from using technology for too long, particularly fishing or going on walks.
